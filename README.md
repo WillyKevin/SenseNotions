@@ -1,0 +1,2 @@
+# SenseNotions
+Aplicação Desktop
